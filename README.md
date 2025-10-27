@@ -36,4 +36,4 @@
 - А без языкового моделирования как
 
 ## [Audio-Speech](https://github.com/DEDMOPO3PEAHIMATOP/Deep-Learning/tree/main/Speech)
-- Зука и речь
+- Звук и речь
