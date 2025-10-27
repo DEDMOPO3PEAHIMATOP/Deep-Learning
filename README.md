@@ -13,7 +13,7 @@
 </p>
 
 ## По применяемости
-- [Основы](#основы)
+- [Основы](#Основы)
 - [ML](#ML)
 - [Computer Vision](#Computer-Vision)
 - [Natural Language Processing](#Natural-Language-Processing)
@@ -23,7 +23,7 @@
 
 
 
-## [основы](https://github.com/DEDMOPO3PEAHIMATOP/Deep-Learning/tree/main/Base)
+## [Основы](https://github.com/DEDMOPO3PEAHIMATOP/Deep-Learning/tree/main/Base)
 - Здесь собрал основы последующих разделов
 
 ## [ML](https://github.com/DEDMOPO3PEAHIMATOP/Deep-Learning/tree/main/ML)
