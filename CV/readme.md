@@ -14,7 +14,9 @@
 
 ## Содержание
 - [Полносвязанные и сверточные нейронные сети](#CNN)
-- [Оптимизаторы](#Optimazer)
+- [Семантическая сегментация](#SegNet)
 
-## [CNN]()
+## [CNN](https://github.com/DEDMOPO3PEAHIMATOP/Deep-Learning/blob/main/CV/LN%24CNN.ipynb)
 - 
+
+## [SegNet]()
