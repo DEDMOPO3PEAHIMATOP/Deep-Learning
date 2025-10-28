@@ -21,4 +21,6 @@
   а также логистическая регрессия с регуляризацией
 
 ## [Optimazer]()
-- 
+- Adam
+- Weight Decay
+- LR scheduling
