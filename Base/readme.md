@@ -16,6 +16,7 @@
 - [Класс "Нейрон"](#Нейрон)
 - [Перемножение матриц](#numpy)
 - [Производная, градиент и градиентный спуск](#Gradient)
+- [Батчнорм и дропаут](#BatchNorm)
 
 ## [Нейрон](https://github.com/DEDMOPO3PEAHIMATOP/Deep-Learning/blob/main/Base/%D0%A1lassNeuron.ipynb)
 - Класс нейрона представляет собой фундаментальное звено в структуре нейронной сети,
@@ -34,3 +35,6 @@
 ## [Gradient](https://github.com/DEDMOPO3PEAHIMATOP/Deep-Learning/blob/main/Base/Gradient.ipynb)
 - Производная, градиент и градиентный спуск - ещё одни из фундаментальных понятий в машинном обучении
   
+## [BatchNorm](https://github.com/DEDMOPO3PEAHIMATOP/Deep-Learning/blob/main/Base/BatchNorm%26Dropout.ipynb)
+- BatchNorm нормирует признаки
+- Dropout тоже стабилизирует обучение, не дает переобучиться и заставляет сети искать пристально искать разные паттерны в данных
