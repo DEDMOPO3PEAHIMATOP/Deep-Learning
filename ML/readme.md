@@ -20,7 +20,7 @@
 - Kласс логистической регрессии для бинарной классификации,
   а также логистическая регрессия с регуляризацией
 
-## [Optimazer]()
+## [Optimazer](https://github.com/DEDMOPO3PEAHIMATOP/Deep-Learning/blob/main/ML/Optimazers.ipynb)
 - Adam
 - Weight Decay
 - LR scheduling
