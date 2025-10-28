@@ -19,6 +19,6 @@
 ## [CNN](https://github.com/DEDMOPO3PEAHIMATOP/Deep-Learning/blob/main/CV/LN%24CNN.ipynb)
 - Реализация полносвязной м сверточной сети на примере LeNet
 
-## [SegNet]()
+## [SegNet](https://github.com/DEDMOPO3PEAHIMATOP/Deep-Learning/blob/main/CV/SemanticSegmettation.ipynb)
 - Реализация архитектуры SegNet с метрикой IoU, с лоссами BCE loss, Dice loss, Focal loss
 - Реализация архитектуры UNet с метрикой IoU, с лоссами BCE loss, Dice loss, Focal loss
