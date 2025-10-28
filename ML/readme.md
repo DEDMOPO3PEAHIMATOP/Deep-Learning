@@ -16,7 +16,7 @@
 - [Логистическая регрессия](#LogReg)
 - [Оптимизаторы](#Optimazer)
 
-## [LogReg]()
+## [LogReg](https://github.com/DEDMOPO3PEAHIMATOP/Deep-Learning/blob/main/ML/LogReg.ipynb)
 - Kласс логистической регрессии для бинарной классификации,
   а также логистическая регрессия с регуляризацией
 
