@@ -15,5 +15,5 @@
 ## Содержание
 - [Классификация теста](#Classification)
 
-## [Classification]()
+## [Classification](https://github.com/DEDMOPO3PEAHIMATOP/Deep-Learning/blob/main/NLP/TextClassification_(no_widjets).ipynb)
 - Реализация классификации текста несколькими моделями (RNN, GRU, GRUx2, BDRNN)
