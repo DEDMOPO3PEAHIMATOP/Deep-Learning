@@ -17,7 +17,7 @@
 
 ## [SSL]()
 - Сравнение обучения "без учителя" с "обучением с учителем":)
-  Посмотрим как себя ведут:
+- Посмотрим как себя ведут:
   - Contrastive Learning (InfoNCE)
   - Non-Contrastive Learning (NCL: VicReg Loss)
   - Supervised (CrossEntropyLoss)
