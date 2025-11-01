@@ -19,7 +19,7 @@
 ## [Classification](https://github.com/DEDMOPO3PEAHIMATOP/Deep-Learning/blob/main/NLP/TextClassification_(no_widjets).ipynb)
 - Реализация классификации текста несколькими моделями (RNN, GRU, GRUx2, BDRNN)
 
-## [RAG]()
+## [RAG](https://github.com/DEDMOPO3PEAHIMATOP/Deep-Learning/blob/main/NLP/RAG_no_widjets%20.ipynb)
 - В данном проекте создадим туристический RAG, проведем EDA
   В качестве основных блоков будем использовать:
   - LLM - кванотванная модель **Llama t-pro-it-1.0-q4_k_s.gguf на архитектуре qwen2
