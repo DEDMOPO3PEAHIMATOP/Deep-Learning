@@ -15,7 +15,7 @@
 ## Содержание
 - [Обучение без учителя](#SSL)
 
-## [SSL]()
+## [SSL](https://github.com/DEDMOPO3PEAHIMATOP/Deep-Learning/blob/main/Speech/SSL.ipynb)
 - Сравнение обучения "без учителя" с "обучением с учителем":)
 - Посмотрим как себя ведут:
   - Contrastive Learning (InfoNCE)
